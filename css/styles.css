@@ -118,6 +118,9 @@ body {
 }
 
 /* footer */
+.footer {
+  background-color: #2e2f42;
+}
 
 .footer-logo {
   font-family: "Raleway", sans-serif;
