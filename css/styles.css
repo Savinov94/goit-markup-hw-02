@@ -68,6 +68,14 @@ body {
   color: #434455;
 }
 
+.header-adress-mail:hover {
+  color: #404bbf;
+}
+
+.header-adress-mail:focus {
+  color: #404bbf;
+}
+
 /* hero image */
 .hero {
   background-color: #2e2f42;
@@ -90,6 +98,14 @@ body {
   color: #ffffff;
   background-color: #4d5ae5;
   cursor: pointer;
+}
+
+.hero-btn:hover {
+  background-color: #404bbf;
+}
+
+.hero-btn:focus {
+  background-color: #404bbf;
 }
 
 /* section 2 */
