@@ -236,6 +236,13 @@ body {
   text-decoration: none;
 }
 
+.filter-link-list {
+}
+
+.filter-link-item {
+  text-decoration: none;
+}
+
 .row-subtitle {
   font-weight: 500;
   font-size: 20px;
