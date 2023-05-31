@@ -48,6 +48,14 @@ body {
   color: #2e2f42;
 }
 
+.header-menu-link:hover {
+  color: #404bbf;
+}
+
+.header-menu-link:focus {
+  color: #404bbf;
+}
+
 .header-contact {
   line-height: 1.5;
   letter-spacing: 0.02em;
