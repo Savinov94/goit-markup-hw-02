@@ -56,6 +56,10 @@ body {
   font-style: normal;
 }
 
+.header-adress-mail {
+  color: #434455;
+}
+
 /* hero image */
 
 .hero-title {
