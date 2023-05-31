@@ -84,21 +84,24 @@ body {
   cursor: pointer;
 }
 
-/* section 1 */
+/* section 2 */
 
 .professionalism-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   color: var(--title-color);
 }
+
 .professionalism-item-text {
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   color: var(--main-text-color);
 }
 
-/* section 2 */
+/* section 3 */
 
 .action-title {
   font-weight: 700;
@@ -107,7 +110,7 @@ body {
   color: var(--title-color);
 }
 
-/* section 3 */
+/* section 4 */
 
 .teem-title {
   font-weight: 700;
