@@ -165,8 +165,14 @@ body {
   color: #4d5ae5;
 }
 
-.footer-logo span {
-  color: #2e2f42;
+.footer-logo-span {
+  color: #f4f4fd;
+}
+
+.footer-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
 
 /* portfolio */
