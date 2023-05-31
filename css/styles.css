@@ -233,6 +233,7 @@ body {
 }
 
 .filter-link {
+  text-decoration: none;
 }
 
 .row-subtitle {
