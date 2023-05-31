@@ -243,14 +243,15 @@ body {
   text-decoration: none;
 }
 
-.row-subtitle {
+.filter-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   color: var(--title-color);
 }
 
-.row-text {
+.filter-text {
   font-size: 16px;
   line-height: 1.5;
   color: var(--main-text-color);
